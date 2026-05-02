@@ -6,3 +6,6 @@ GitHub Repository Setup.
 Branching & Merging using a feature branch.  
 
 Issue Tracking and documentation best practices.
+
+
+SCM Best Practices
